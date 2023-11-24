@@ -3,6 +3,7 @@
 ### Hey there! 👋 I'm Luis, a Full Stack Developer ready to craft innovative digital experiences.
 
 🌟 **About Me**  
+
 With experience in Frontend (React, Angular, TypeScript/JavaScript, Salesforce) Backend (NodeJS/NestJS, C# .Net Core) and in Databases (PostgreSQL, MySQL), I'm here to showcase my cosmic journey in software craftsmanship.
 
 🧑‍💻 **Technologies I Work With**
@@ -19,6 +20,7 @@ With experience in Frontend (React, Angular, TypeScript/JavaScript, Salesforce) 
 - Docker
 
 🚀 **My Mission**  
+
 My mission is to lead company success and build digital platforms that elevate user experiences and make clients happy. Through code, creativity, leadership, and a cosmic touch, I aim to achieve client satisfaction and team success.
 
 🌠 **Let's Connect!**
