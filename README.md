@@ -1,16 +1,29 @@
-### Hi there 👋
+# 🚀 Welcome to Luis Ponce's Github!
 
-<!--
-**LuisDev99/LuisDev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there! 👋 I'm Luis, a Full Stack Developer ready to craft innovative digital experiences.
 
-Here are some ideas to get you started:
+🌟 **About Me**  
+With a galaxy of experiences in Frontend (React, Angular, TypeScript/JavaScript, Salesforce) Backend (NodeJS/NestJS, C# .Net Core) and in Databases (PostgreSQL, MySQL), I'm here to showcase my cosmic journey in software craftsmanship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 **Technologies I Work With**
+
+- React/NextJS
+- Angular
+- Salesforce
+- TypeScript/JavaScript
+- NodeJS/NestJS
+- C#/.Net Core
+- Figma
+- GraphQL
+- PostgreSQL/MySQL
+- Docker
+
+🚀 **My Mission**  
+My mission is to lead company success and build digital wonders that inspire, innovate, elevate user experiences and make clients happy. Through code, creativity, leadership, and a cosmic touch, I aim to achieve client satisfaction and team success.
+
+🌠 **Let's Connect!**
+
+- Explore my code on my [Github](https://github.com/LuisDev99)! 👇
+- Reach out to me on [LinkedIn](https://www.linkedin.com/in/luis-gerardo-ponce-rodriguez-1277a5140/) for cosmic collaborations!
+
+🛸 **Thanks for visiting my profile! Enjoy the journey! So long and thanks for all the fish 👋** 🌌
